@@ -1,0 +1,115 @@
+
+ Time: 1
+Waiting Clients:
+(1, 7, 2) (3, 8, 2) (2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 2
+Waiting Clients:
+(1, 7, 2) (3, 8, 2) (2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 3
+Waiting Clients:
+(1, 7, 2) (3, 8, 2) (2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 4
+Waiting Clients:
+(1, 7, 2) (3, 8, 2) (2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 5
+Waiting Clients:
+(1, 7, 2) (3, 8, 2) (2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 6
+Waiting Clients:
+(1, 7, 2) (3, 8, 2) (2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 7
+Waiting Clients:
+(3, 8, 2) (2, 12, 2) (4, 14, 2) 
+Queue 1: (1, 7, 2) 
+Queue 2: closed
+
+
+ Time: 8
+Waiting Clients:
+(2, 12, 2) (4, 14, 2) 
+Queue 1: (1, 7, 1) 
+Queue 2: (3, 8, 2) 
+
+
+ Time: 9
+Waiting Clients:
+(2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: (3, 8, 1) 
+
+
+ Time: 10
+Waiting Clients:
+(2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 11
+Waiting Clients:
+(2, 12, 2) (4, 14, 2) 
+Queue 1: closed
+Queue 2: closed
+
+
+ Time: 12
+Waiting Clients:
+(4, 14, 2) 
+Queue 1: (2, 12, 2) 
+Queue 2: closed
+
+
+ Time: 13
+Waiting Clients:
+(4, 14, 2) 
+Queue 1: (2, 12, 1) 
+Queue 2: closed
+
+
+ Time: 14
+Waiting Clients:
+
+Queue 1: closed
+Queue 2: (4, 14, 2) 
+
+
+ Time: 15
+Waiting Clients:
+
+Queue 1: closed
+Queue 2: (4, 14, 1) 
+
+
+ Time: 16
+Waiting Clients:
+
+Queue 1: closed
+Queue 2: closed
+
+Average Waiting Time: 10.25
+Average Processing Time: 2.0
+Peak Hour: 8
